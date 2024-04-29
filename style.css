@@ -5,3 +5,44 @@
   background-size: contain;
   background-color: rgb(0, 162, 255);
 }
+.text {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.grey {
+  color: grey;
+}
+mark {
+  background-color: yellow;
+}
+.table1 {
+  background-color: rgb(0, 208, 255);
+  color: aliceblue;
+}
+.box {
+  background-image: url(img/monitor.jpg);
+  height: 325px;
+  width: 325px;
+  background-repeat: no-repeat;
+  margin-bottom: 0%;
+  margin-top: 0%;
+
+  color: white;
+}
+.grafico {
+  background-image: url(img/graph.jpg);
+  height: 325px;
+  width: 325px;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  margin-top: 0cm;
+}
+.table2 {
+  background-color: rgb(166, 225, 226);
+}
+.table3 {
+  background-color: rgb(166, 225, 226);
+}
+.color {
+  color: aqua;
+}
